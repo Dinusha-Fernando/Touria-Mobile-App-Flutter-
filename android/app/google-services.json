@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1080455267157",
+    "project_id": "touria-app-f37e3",
+    "storage_bucket": "touria-app-f37e3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080455267157:android:ce9371a473c411e47925dc",
+        "android_client_info": {
+          "package_name": "com.example.touria"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1080455267157-9o02j8hf4f1bglbirl7ik6jn63v30hhs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.touria",
+            "certificate_hash": "a3f363b8c9e97df1a419f6efebc6c7844fea0fd8"
+          }
+        },
+        {
+          "client_id": "1080455267157-e2cl6ud61i8nej600d49m3jim0h6qvlf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5KXldz8jEk7q_Lb-Z4ZfD5yBwN61JJ54"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1080455267157-e2cl6ud61i8nej600d49m3jim0h6qvlf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1080455267157-ld0i5fklsbikmsccpo096gejud8hunp4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.touria"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
